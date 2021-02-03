@@ -1,5 +1,5 @@
 # hello-world
-Attemping hello-world tutorial 
+Attempting hello-world tutorial 
 
 Hello, World!
 This is an edit made to familiarize myself with Git and Github. 
